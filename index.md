@@ -16,10 +16,10 @@ Led projects for calculations involving Potential Future Exposure (PFE), Collate
 
 <div class="row">
   <div class="column">
-    <img src="images/IMG_3349.JPG" style="width:30%">
+    <img src="images/IMG_3349.JPG" style="width:15% ; float:left" display: inline>
   </div>
   <div class="column">
-    <img src="images/IMG_E3231.JPG" style="width:30%">
+    <img src="images/IMG_E3231.JPG" style="width:15%; float:left">
   </div>
 </div>
 
