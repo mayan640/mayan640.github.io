@@ -2,8 +2,10 @@
 
 ---
 
-###  Counterparty Credit Risk Management
+###  Counterparty Credit Risk Management 
 Led projects for calculations involving Potential Future Exposure (PFE), Collateral Haircuts, and Wrong Way Risk metrics to enhance risk oversight
+[Documentation](/pdf/Presentation.pdf)
+<!--<img src="pdf/Presentation.pdf?raw=true"/> -->
 <!--[Project worked Upon](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
