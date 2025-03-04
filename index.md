@@ -50,5 +50,6 @@ Developed an automated mapping system for Commercial banking Trades to the credi
 
 
 ---
-<p style="font-size:11px">Page by <a href="https://github.com/evanca/quick-portfolio">Mayank</a></p>
+<!--
+<p style="font-size:11px">Page by <a href="https://github.com/evanca/quick-portfolio">Mayank</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
